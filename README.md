@@ -238,7 +238,7 @@ Your name could be here! Create a mod and get featured:
 **Creator:** [Mateusino Ball](https://github.com/MateusinoBall)  
 **GitHub:** [@MateusinoBall](https://github.com/MateusinoBall)  
 **Website:** [r74n.com](https://r74n.com)  
-**Email:** mateusinoBall2015@gmail.com  
+**Email:** mateusinoBall2015@gmail.com (not released)  
 
 ---
 
