@@ -8,6 +8,20 @@ A comprehensive collection of mods for **Sandboxels** created by Mateusino Ball!
 
 ---
 
+## 🎁 ✨ NEW: Exclusive PR GIFs! ✨ 🎁
+
+**Every Pull Request gets its own personalized, animated GIF!** 
+
+Create a PR and you'll receive:
+- 🎨 A unique GIF with YOUR name
+- 🆔 Your PR number featured
+- 🌟 A celebratory welcome message
+- 💎 An exclusive badge for contributors
+
+👉 **[Learn about Exclusive PR GIFs](PR_EXCLUSIVE_GIFS.md)**
+
+---
+
 ## 📋 About
 
 This repository contains a comprehensive collection of **mods for Sandboxels**, allowing you to:
@@ -28,6 +42,7 @@ This repository contains a comprehensive collection of **mods for Sandboxels**, 
 | 🎮 Play Sandboxels | https://neal.fun/sandboxels |
 | 📚 Mods List | https://mods.r74n.com/mod-list |
 | 🌐 r74n Website | https://r74n.com |
+| 🎁 PR Exclusive GIFs | [Learn More](PR_EXCLUSIVE_GIFS.md) |
 
 ---
 
@@ -43,12 +58,14 @@ This repository contains a comprehensive collection of **mods for Sandboxels**, 
 3. **Create your mod in a JavaScript file**
 4. **Commit and Push to your fork**
 5. **Open a Pull Request** to the main repository
+   - 🎁 **Your exclusive GIF will be generated automatically!**
 
 ### Contribute Improvements
 1. Identify bugs or improvement opportunities
 2. Create a branch: `git checkout -b fix/description-of-fix`
 3. Make your changes
 4. Open a PR with clear description
+   - 🎁 **Get your personal celebratory GIF!**
 
 ---
 
@@ -59,6 +76,7 @@ When you submit a Pull Request:
 - ✅ You'll receive feedback and adjustments (if needed)
 - ✅ Code errors will be fixed
 - ⏱️ **Merge within 5 days**
+- 🎁 **Get an exclusive PR GIF** (automatically generated!)
 
 **Tip:** Keep a fork of this repository to receive all applied corrections!
 
@@ -70,10 +88,13 @@ When you submit a Pull Request:
 Sandboxels-Mods/
 ├── README.md              # This file
 ├── CONTRIBUTING.md        # Contribution guide
+├── PR_EXCLUSIVE_GIFS.md   # 🎁 Learn about exclusive PR GIFs
 ├── mods/                  # Folder with all mods
 │   ├── your-mod-1.js
 │   ├── your-mod-2.js
 │   └── ...
+├── scripts/               # Utility scripts
+│   └── generate-pr-gif.js # 🎨 GIF generator
 └── docs/                  # Additional documentation
 ```
 
@@ -96,6 +117,7 @@ Sandboxels-Mods/
 - **Reddit:** r/sandboxels
 - **Issues:** Use to report bugs
 - **Discussions:** For suggestions and discussions
+- **🎁 PR GIFs:** Get yours with every contribution!
 
 ---
 
@@ -112,6 +134,7 @@ If you loved this repository:
 - 🍴 Fork it
 - 👥 Invite your friends
 - 📢 Share on social media
+- 🎁 **Create a PR and get an exclusive GIF!**
 
 ---
 
@@ -125,4 +148,5 @@ If you loved this repository:
 ---
 
 **Last Updated:** 2026-09-01  
-**Active Mods:** ∞ and growing!
+**Active Mods:** ∞ and growing!  
+**🎁 PR Exclusive GIFs:** Now Live!
