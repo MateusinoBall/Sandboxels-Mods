@@ -120,6 +120,7 @@ If you loved this repository:
 **Creator:** Mateusino Ball  
 **GitHub:** [@MateusinoBall](https://github.com/MateusinoBall)  
 **Website:** https://r74n.com
+**E-mail:** mateusinoBall2015@gmail.com (email inauguration: undecided)
 
 ---
 
