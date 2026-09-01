@@ -1,0 +1,13 @@
+{
+  "name": "agorinha",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "agorinha": "node scripts/agorinha.js"
+  },
+  "dependencies": {
+    "@octokit/rest": "^20.0.0",
+    "jimp": "^0.16.1",
+    "gifencoder": "^2.0.1"
+  }
+}
