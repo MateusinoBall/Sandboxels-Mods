@@ -1,37 +1,25 @@
 ---
-name: Bug Report
-about: Report a bug in one of the mods
+name: Bug report
+about: Informe um bug para nos ajudar a corrigi-lo
 title: '[BUG] '
-labels: 'bug'
+labels: bug
 assignees: ''
-
 ---
 
-## 🐛 Bug Description
-<!-- Clear and concise description of what the bug is -->
+**Descreva o bug**
+Uma explicação clara e concisa do que é o bug.
 
-## 📍 Location
-<!-- Which mod is affected? -->
-- Mod name: 
+**Passos para reproduzir**
+1. Vá para '...'
+2. Clique em '....'
+3. Veja o erro
 
-## 📋 Steps to Reproduce
-1. 
-2. 
-3. 
+**Comportamento esperado**
+Descreva o que você esperava que acontecesse.
 
-## ✅ Expected Behavior
-<!-- What should happen -->
+**Versão do jogo e sistema**
+- Versão do Sandboxels: X.Y
+- Sistema operacional:
 
-## ❌ Actual Behavior
-<!-- What actually happens -->
-
-## 📸 Screenshots
-<!-- If applicable, add screenshots -->
-
-## 🖥️ Environment
-- Sandboxels Version: 
-- Browser: 
-- OS: 
-
-## 💡 Additional Context
-<!-- Add any other context -->
+**Screenshots / logs**
+Se aplicável, adicione screenshots e logs para ajudar a reproduzir o problema.

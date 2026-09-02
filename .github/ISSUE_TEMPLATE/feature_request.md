@@ -1,23 +1,16 @@
 ---
-name: Feature Request
-about: Suggest an idea for a new mod or feature
+name: Feature request
+about: Sugira uma nova feature ou melhoria
 title: '[FEATURE] '
-labels: 'enhancement'
+labels: enhancement
 assignees: ''
-
 ---
 
-## 💡 Feature Description
-<!-- Clear description of the feature or mod idea -->
+**Descrição da feature**
+Descreva a feature que você gostaria de ver.
 
-## 🎯 Use Case
-<!-- Why would this be useful? Who would benefit? -->
+**Por que é útil**
+Explique o motivo e possíveis casos de uso.
 
-## 🔄 Alternative Approaches
-<!-- Have you considered other solutions? -->
-
-## 📚 Additional Context
-<!-- Add sketches, references, or examples -->
-
-## 🎨 Mockup/Example
-<!-- If you have one, describe or show what it would look like -->
+**Exemplo / Esboço**
+Se possível, forneça um exemplo de como funcionaria (pseudocódigo, mockups, etc.).
